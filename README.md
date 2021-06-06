@@ -8,7 +8,9 @@ A criação deste material foi feita com a intenção de proporcionar um rápido
 Agora com este material pronto, percebo que estas anotações, podem ser úteis também para outros fins:
 
 - Auxiliar outras pessoas no aprendizado deste conteúdo.
-- Permitir que pessoas interessadas no meu trabalho, possam ter uma visualização mais específica do conteúdo que realmente aprendi durante o curso. Obs.: É importante relatar que além do conteúdo adicionado neste documento, os desafios diários da vida de desenvolvedor estão sempre me levando a buscar novos conhecimentos que vão além do que está documentado aqui. Obs.: Estou disponibilizando este material em PDF e também em DOCX para que possa ser editado livremente por quem tiver interesse.
+- Permitir que pessoas interessadas no meu trabalho, possam ter uma visualização mais específica do conteúdo que realmente aprendi durante o curso. 
+
+Obs.: É importante relatar que além do conteúdo adicionado neste documento, os desafios diários da vida de desenvolvedor estão sempre me levando a buscar novos conhecimentos que vão além do que está documentado aqui. Obs.: Estou disponibilizando este material em PDF e também em DOCX para que possa ser editado livremente por quem tiver interesse.
 
 SUMÁRIO - Módulo 01: Instalações
 
